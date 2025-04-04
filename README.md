@@ -12,4 +12,4 @@ Game development has been on my dream since a young age and a passion of mine. I
 
 If you found my profile is because either I made something cool or because you are on the wrong page, either way thank you for stopping by.
 
-Feel free to message me incase theres something I can help with! 🙂‍↕️
+Feel free to message me incase theres something I can help with! 😖
