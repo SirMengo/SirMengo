@@ -1,7 +1,7 @@
 ## Hello! My name is Mengo. 😎
 
 I'm a student and aspiring game developer! ✨ 
-Game development has been my dream and a passion of mine since a young age a. In my github page you will find my school projects and (eventually) my work related to game dev. 🎮
+Game development has been my dream and a passion of mine since a young age. In my github page you will find my school projects and (eventually) my work related to game dev. 🎮
 
 ## More about me:
 
