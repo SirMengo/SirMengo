@@ -9,6 +9,7 @@ Game development has been my dream and a passion of mine since a young age. In m
 - ⌨️ My main languages of expertise are C and C#
 - 🎥 Part-time Twitch streamer and PNGTuber
 - 🎨 Trying to learn how to draw and ilustrate
+- 💻 I use Arch btw ☝️🤓
 
 If you found my profile it is because either I made something cool or because you are on the wrong page, either way thank you for stopping by.
 
