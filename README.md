@@ -5,7 +5,7 @@ Game development has been my dream and a passion of mine since a young age. In m
 
 ## More about me:
 
-- 📚 Currently studying [42 Lisboa](https://www.42lisboa.com/)
+- 📚 Currently studying at [42 Lisboa](https://www.42lisboa.com/)
 - ⌨️ My main languages of expertise are C and C#
 - 🎥 Part-time Twitch streamer and PNGTuber
 - 🎨 Trying to learn how to draw and ilustrate
