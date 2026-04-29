@@ -1,16 +1,14 @@
 ## Hello! My name is Mengo. 😎
 
-I'm a student and aspiring game developer! ✨ 
-Game development has been my dream and a passion of mine since a young age. In my github page you will find my school projects and (eventually) my work related to game dev. 🎮
+I'm a student and aspiring developer ✨
+Programming has been a passion of mine since a young age, and I'm always looking to learn and build new things. On my GitHub, you'll find my school projects and other work as I continue growing as a developer. 💻
 
-## More about me:
+### More about me:
+-📚 Currently studying at 42 Lisboa
+-⌨️ Mainly working with C and C#
+-🎨 Learning to draw and illustrate in my free time
+-💻 I use Arch btw ☝️🤓
 
-- 📚 Currently studying at [42 Lisboa](https://www.42lisboa.com/)
-- ⌨️ My main languages of expertise are C and C#
-- 🎥 Part-time Twitch streamer and PNGTuber
-- 🎨 Trying to learn how to draw and ilustrate
-- 💻 I use Arch btw ☝️🤓
+If you found my profile, maybe I built something interesting—or maybe you took a wrong turn. Either way, thanks for stopping by!
 
-If you found my profile it is because either I made something cool or because you are on the wrong page, either way thank you for stopping by.
-
-Feel free to message me incase there is something I can help with! 😖
+Feel free to message me if there's something I can help with 😖
